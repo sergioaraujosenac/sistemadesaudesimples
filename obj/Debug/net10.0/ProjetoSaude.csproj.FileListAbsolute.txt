@@ -1,0 +1,14 @@
+C:\Users\SérgioCorreiadeAraúj\Documents\ProjetoSaude\bin\Debug\net10.0\ProjetoSaude.exe
+C:\Users\SérgioCorreiadeAraúj\Documents\ProjetoSaude\bin\Debug\net10.0\ProjetoSaude.deps.json
+C:\Users\SérgioCorreiadeAraúj\Documents\ProjetoSaude\bin\Debug\net10.0\ProjetoSaude.runtimeconfig.json
+C:\Users\SérgioCorreiadeAraúj\Documents\ProjetoSaude\bin\Debug\net10.0\ProjetoSaude.dll
+C:\Users\SérgioCorreiadeAraúj\Documents\ProjetoSaude\bin\Debug\net10.0\ProjetoSaude.pdb
+C:\Users\SérgioCorreiadeAraúj\Documents\ProjetoSaude\obj\Debug\net10.0\ProjetoSaude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SérgioCorreiadeAraúj\Documents\ProjetoSaude\obj\Debug\net10.0\ProjetoSaude.AssemblyInfoInputs.cache
+C:\Users\SérgioCorreiadeAraúj\Documents\ProjetoSaude\obj\Debug\net10.0\ProjetoSaude.AssemblyInfo.cs
+C:\Users\SérgioCorreiadeAraúj\Documents\ProjetoSaude\obj\Debug\net10.0\ProjetoSaude.csproj.CoreCompileInputs.cache
+C:\Users\SérgioCorreiadeAraúj\Documents\ProjetoSaude\obj\Debug\net10.0\ProjetoSaude.dll
+C:\Users\SérgioCorreiadeAraúj\Documents\ProjetoSaude\obj\Debug\net10.0\refint\ProjetoSaude.dll
+C:\Users\SérgioCorreiadeAraúj\Documents\ProjetoSaude\obj\Debug\net10.0\ProjetoSaude.pdb
+C:\Users\SérgioCorreiadeAraúj\Documents\ProjetoSaude\obj\Debug\net10.0\ProjetoSaude.genruntimeconfig.cache
+C:\Users\SérgioCorreiadeAraúj\Documents\ProjetoSaude\obj\Debug\net10.0\ref\ProjetoSaude.dll
