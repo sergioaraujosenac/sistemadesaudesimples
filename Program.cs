@@ -1,24 +1,52 @@
 ﻿using System;
-using System.ComponentModel;
+ namespace desafio1;
+ 
+    
+ 
+
 
 class Program
 {
     static void Main()    
     {
          
-        List<string> pacientes =new List<string>();
+        List<string> paciente =new List<string>();
+        int opcao;
+        List<string> nome=new List<string>();
+        List<int> idade=new List<int>();
+        
                 
         Console.WriteLine("=== Sistema de Entrada Hospitalar ===\n");
         
+        Console.WriteLine("-----------Menu----------");
+        Console.WriteLine("1 - Adicionar Paciente \n 2 - vVer Fila Atual \n 3 - Chamar Proximo \n 4 - Sair");
+        string? opcaostring = Console.ReadLine();
+        if (int.TryParse(opcaostring, out opcao))
+         {
+            switch (opcao)
+            {
+                
+            case 1:
+
+               Console.WriteLine("digite o nome do Paciente:");
+               break;
+
+            }  
+
+
+
+        }
+
+
+
+        
 
         // Entrada de dados
-        Console.Write("Digite o nome do paciente: ");
-        string nome = Console.ReadLine();
+       
         Console.WriteLine("digite a lista de paciente:");
-        string paciente = Console.ReadLine(); 
+        string pacientes = Console.ReadLine(); 
 
-        Console.Write("Digite a idade do paciente: ");
-        int idade = int.Parse(Console.ReadLine());
+      
 
         Console.Write("Digite o nível de dor (0 a 10): ");
         int nivelDor = int.Parse(Console.ReadLine());

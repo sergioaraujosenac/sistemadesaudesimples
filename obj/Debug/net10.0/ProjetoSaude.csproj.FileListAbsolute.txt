@@ -12,3 +12,4 @@ C:\Users\SérgioCorreiadeAraúj\Documents\ProjetoSaude\obj\Debug\net10.0\refint\
 C:\Users\SérgioCorreiadeAraúj\Documents\ProjetoSaude\obj\Debug\net10.0\ProjetoSaude.pdb
 C:\Users\SérgioCorreiadeAraúj\Documents\ProjetoSaude\obj\Debug\net10.0\ProjetoSaude.genruntimeconfig.cache
 C:\Users\SérgioCorreiadeAraúj\Documents\ProjetoSaude\obj\Debug\net10.0\ref\ProjetoSaude.dll
+C:\Users\SérgioCorreiadeAraúj\Documents\ProjetoSaude\obj\Debug\net10.0\ProjetoSaude.sourcelink.json
